@@ -1,38 +1,38 @@
 {
     "status": "ok",
-    "date": "2016-05-28",
+    "date": "2016-06-30",
     "commands": "",
     "gpg": false,
     "devices": [
         {
             "files": [
                 {
-                    "url": "https://multirom-nexus6p.github.io/multirom-20160514-v33-UNOFFICIAL-angler-STABLE7.zip",
+                    "url": "https://multirom-aries.github.io/multirom-20160630-v33-UNOFFICIAL-aries.zip",
                     "version": "33",
                     "type": "multirom",
-                    "size": 6801089,
-                    "md5": "d466018a8927d4b17231f9994d50d117"
+                    "size": 3644984,
+                    "md5": "2902922e6ec150b9387acb115d967901"
                 },
                 {
-                    "url": "https://multirom-nexus6p.github.io/mr-twrp-recovery-20160528-05-STABLE7.img",
-                    "version": "mrom20160528-00",
+                    "url": "https://multirom-aries.github.io/mr-twrp-recovery-20160630-aries.img",
+                    "version": "mrom20160630-00",
                     "type": "recovery",
-                    "size": 20692992,
-                    "md5": "765628f31ec3fb9e6657d68e431c4658"
+                    "size": 14774272,
+                    "md5": "6bd314ba5ff25658e0e39b02f67ea49e"
                 },
                 {
-                    "url": "https://multirom-nexus6p.github.io/kernel-hardboot-stock-angler-6.0.1-20160514.zip",
-                    "version": "Stock 6.0.1-20160514",
+                    "url": "https://multirom-aries.github.io/kernel-hardboot-stock-aries-6.0.1-20160630.zip",
+                    "version": "Stock 6.0.1-20160630",
                     "type": "kernel",
-                    "size": 9061587,
-                    "md5": "740aa5351cd8816d9c1a0e17e35f36c2"
+                    "size": 7864750,
+                    "md5": "c98241748946b820944fbdfa06475e3d"
                 },
                 {
-                    "url": "https://multirom-nexus6p.github.io/multirom_uninstaller.zip",
+                    "url": "https://multirom-aries.github.io/multirom_uninstaller.zip",
                     "version": "",
                     "type": "uninstaller",
-                    "size": 1705912,
-                    "md5": "4d97353b04c29a656a60692d0fd464e9"
+                    "size": 1571937,
+                    "md5": "60fcced3981eb50055754eb009e9c29e"
                 }
             ],
             "changelogs": [],
