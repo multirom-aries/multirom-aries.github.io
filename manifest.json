@@ -1,31 +1,31 @@
 {
     "status": "ok",
-    "date": "2016-06-30",
+    "date": "2016-08-21",
     "commands": "",
     "gpg": false,
     "devices": [
         {
             "files": [
                 {
-                    "url": "https://multirom-aries.github.io/multirom-20160630-v33-UNOFFICIAL-aries.zip",
-                    "version": "33",
+                    "url": "https://multirom-aries.github.io/multirom-20160821-v33-UNOFFICIAL-aries.zip",
+                    "version": "v33",
                     "type": "multirom",
-                    "size": 3644984,
-                    "md5": "2902922e6ec150b9387acb115d967901"
+                    "size": 3644617,
+                    "md5": "a3bebc5dd01bf32bc4e43f89ed686253"
                 },
                 {
-                    "url": "https://multirom-aries.github.io/mr-twrp-recovery-20160630-aries.img",
-                    "version": "mrom20160630-00",
+                    "url": "https://multirom-aries.github.io/mr-twrp-recovery-20160821-aries.img",
+                    "version": "mrom20160821-00",
                     "type": "recovery",
-                    "size": 14774272,
-                    "md5": "6bd314ba5ff25658e0e39b02f67ea49e"
+                    "size": 13885440,
+                    "md5": "a3525503afeb17f6a7f9d90c451c71f9"
                 },
                 {
-                    "url": "https://multirom-aries.github.io/kernel-hardboot-stock-aries-6.0.1-20160630.zip",
-                    "version": "Stock 6.0.1-20160630",
+                    "url": "https://multirom-aries.github.io/kexec-hardboot-aries-6.0.1-20160821.zip",
+                    "version": "kexec kernel 6.0.1-20160821",
                     "type": "kernel",
-                    "size": 7864750,
-                    "md5": "c98241748946b820944fbdfa06475e3d"
+                    "size": 7107040,
+                    "md5": "561e662116229d0e28455cbdfb9d1c01"
                 },
                 {
                     "url": "https://multirom-aries.github.io/multirom_uninstaller.zip",
