@@ -21,11 +21,11 @@
                     "md5": "a3525503afeb17f6a7f9d90c451c71f9"
                 },
                 {
-                    "url": "https://multirom-aries.github.io/kexec-hardboot-aries-6.0.1-20160821.zip",
-                    "version": "kexec kernel 6.0.1-20160821",
+                    "url": "https://multirom-aries.github.io/kexec-hardboot-aries-6.0.1-20160824.zip",
+                    "version": "kexec kernel 6.0.1-20160824",
                     "type": "kernel",
-                    "size": 7107040,
-                    "md5": "561e662116229d0e28455cbdfb9d1c01"
+                    "size": 7563604,
+                    "md5": "a80ad61da67f20f85214b6c28d850e2c"
                 },
                 {
                     "url": "https://multirom-aries.github.io/multirom_uninstaller.zip",
